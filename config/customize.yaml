@@ -1,0 +1,8 @@
+sensor.owm_temperature:
+  friendly_name: "Hőmérséklet"
+
+sensor.owm_humidity:
+  friendly_name: "Páratartalom"
+
+sensor.owm_wind_speed:
+  friendly_name: "Szélsebesség"

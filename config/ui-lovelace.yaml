@@ -1,0 +1,17 @@
+title: Home Assistant
+views:
+- title: Időjárás
+  cards:
+  - type: picture-elements
+    title: Időjárás
+    camera_image: camera.radar
+    elements:
+       - type: state-label
+         entity: sensor.owm_temperature
+         style: {color: "#FFFFFF", left: 10%, top: 90%, font-size: 20px, font-weight: 600}
+       - type: state-label
+         entity: sensor.owm_humidity
+         style: {color: "#FFFFFF", left: 30%, top: 90%, font-size: 20px, font-weight: 600}
+       - type: state-label
+         entity: sensor.owm_wind_speed
+         style: {color: "#FFFFFF", left: 50%, top: 90%, font-size: 20px, font-weight: 600}
