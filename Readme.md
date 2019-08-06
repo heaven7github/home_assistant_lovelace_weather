@@ -13,4 +13,4 @@ This repository is only demonstration for Lovelace UI.
  * set Openweather API key in secrets.yaml 
 
 ## Screenshot
- <img src="https://github.com/heaven7github/home_assistant_lovelace_weather/tree/master/assets/weather.jpg" alt="Weather" />
+ <img src="https://raw.githubusercontent.com/heaven7github/home_assistant_lovelace_weather/master/assets/weather.png" alt="Weather" />
