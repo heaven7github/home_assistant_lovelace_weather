@@ -1,6 +1,6 @@
 # Home Assistant Radar Image With Lovelace
 
-This repository is only demonstration for Lovelace UI. 
+This repository is only demonstration for Lovelace UI usage. 
 
 ## Used technologies
 
